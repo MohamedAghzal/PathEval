@@ -14,6 +14,8 @@ A Vision-Language Model (VLM) is presented with an image depicting P1 and P2 in 
 
 The full training and testing datasets can be found [here](https://huggingface.co/datasets/maghzal/PathEval).
 
+![Example Paths](PathEval.png)
+
 ## Citation
 
 If find this repository useful for your work, please cite our [paper](https://arxiv.org/abs/2411.18711):
